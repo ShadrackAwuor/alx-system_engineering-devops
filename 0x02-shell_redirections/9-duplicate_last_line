@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 file.txt | tee -a file.txt
+tail -n 1 iacta >> iacta
